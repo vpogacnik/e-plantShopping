@@ -45,6 +45,7 @@ const CartItem = ({ onContinueShopping }) => {
           item.name
                   )
               );
+    }
   };
 
   const handleRemove = (item) => {
